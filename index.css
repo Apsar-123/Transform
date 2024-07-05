@@ -1,0 +1,89 @@
+#a1:hover {
+    background-color: rgb(183, 146, 92);
+    transition: 0.5s;
+    transform: translate(20%);
+}
+
+#a2:hover {
+    background-color: rgb(238, 131, 131);
+    transition: 1s;
+    transform: translateX(10%);
+}
+
+#a3:hover {
+    background-color: rgb(217, 217, 74);
+    transition: 1s;
+    transform: translateY(10%);
+}
+
+#a4:hover {
+    background-color: rgb(144, 192, 47);
+    transition: 1s;
+    transform: scale(80%);
+}
+
+#a5:hover {
+    background-color: rgb(118, 233, 199);
+    transition: 1s;
+    transform: scaleX(50%);
+}
+
+#a6:hover {
+    background-color: rgb(79, 179, 162);
+    transition: 1s;
+    transform: scaleY(50%);
+}
+
+#a7:hover {
+    background-color: rgb(128, 123, 220);
+    transition: 1s;
+    transform: rotate(180deg);
+}
+
+#a8:hover {
+    background-color: rgb(203, 123, 213);
+    transition: 1s;
+    transform: rotateX(300deg);
+}
+
+#a9:hover {
+    background-color: rgb(201, 91, 109);
+    transition: 1s;
+    transform: rotateY(320deg);
+}
+
+#a10:hover {
+    background-color: rgb(197, 39, 65);
+    transition: 1s;
+    transform: skew(20deg, 160deg);
+}
+
+#a11:hover {
+    background-color: rgb(161, 117, 51);
+    transition: 1s;
+    transform: skewX(50deg);
+}
+
+#a12:hover {
+    background-color: rgb(219, 123, 123);
+    transition: 1s;
+    transform: skewY(150deg);
+}
+
+#i1 {
+    border-radius: 5%;
+    padding: 1px;
+    background-color: chartreuse;
+}
+
+#i2 {
+    border-radius: 5%;
+    padding: 1px;
+    background-color: chartreuse;
+}
+
+#i3 {
+    border-radius: 5%;
+    padding: 1px;
+    background-color: chartreuse;
+}
